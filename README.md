@@ -42,6 +42,8 @@ uni-app：https://gitee.com/gz-yami/mall4cloud-uniapp
 
 - 项目要求使用 [pnpm](https://www.pnpm.cn/) 包管理工具
 - 使用编辑器打开项目，在根目录执行以下命令安装依赖
+- pnpm 安装 https://blog.csdn.net/it_xcr/article/details/114655778
+- 修改 ip localhost
 
 ```
 pnpm install
